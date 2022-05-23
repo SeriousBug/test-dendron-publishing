@@ -1,0 +1,16 @@
+{
+  "roots": [
+    {
+      "key": "m6gc0d97w88cju3g17jwyw1",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "testfolder",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "m6gc0d97w88cju3g17jwyw1": null
+  }
+}
