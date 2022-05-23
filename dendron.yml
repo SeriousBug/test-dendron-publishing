@@ -101,3 +101,5 @@ publishing:
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
     enablePrettyLinks: true
+    assetsPrefix: "/test-dendron-publishing"
+    siteUrl: "https://SeriousBug.github.io"
